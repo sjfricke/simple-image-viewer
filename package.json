@@ -1,0 +1,20 @@
+{
+  "name": "simple-image-viewer",
+  "version": "1.0.0",
+  "description": "Simple NodeJS server to view images from a folder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjfricke/simple-image-viewer.git"
+  },
+  "author": "Spencer Fricke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sjfricke/simple-image-viewer/issues"
+  },
+  "homepage": "https://github.com/sjfricke/simple-image-viewer#readme"
+}
